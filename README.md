@@ -1,2 +1,2 @@
 # uuid-generator
-UUID Generator
+UUID Generator asks how many UUIDs you need and prints them.
